@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**yashvikothari/yashvikothari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+<h3> 🤝🏻 Socials </h3>
+<p align="center">
+&nbsp; <a href="https://twitter.com/kothari_yashvi" target="_blank" rel="noopener noreferrer">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/>
+</p>
+
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/youtube-play.png" alt="youtube-play"/>
+
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/medium-logo.png" alt="medium-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/000000/hashnode.png" alt="hashnode"/>
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
