@@ -20,4 +20,15 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/000000/hashnode.png" alt="hashnode"/>
 
 - 😄 Pronouns: ...
+
+She/her
+
+- ⌚Linkedin Profile Badge:-
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yashvikothari" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yashvikothari?trk=profile-badge">Yashvi Kothari</a></div>
+              
+
 - ⚡ Fun fact: ...
+
+Yashvi Kothari 💙 Darshan Raval
+
