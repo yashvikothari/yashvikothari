@@ -30,14 +30,25 @@ Yashvi Kothari 💙 Darshan Raval
 
 
 <h3> 🤝🏻 Socials </h3>
-<p align="center">
-&nbsp; <a href="https://twitter.com/kothari_yashvi" target="_blank" rel="noopener noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/>
 
-&nbsp; <a href="https://youtube.com/mycrxn" target="_blank" rel="noopener noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/youtube-play.png" alt="youtube-play"/>
+<p>
 
+&nbsp; <a href="https://twitter.com/kothari_yashvi" target="_blank" rel="noopener noreferrer">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/>
+
+&nbsp; <a href="https://youtube.com/mycrxn" target="_blank" rel="noopener noreferrer">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/youtube-play.png" alt="youtube-play"/>
+
+&nbsp; <a href="https://linkedin.com/in/yashvikothari" target="_blank" rel="noopener noreferrer">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/>
+
+&nbsp; <a href="mailto:yashvikothari@outlook.com" target="_blank" rel="noopener noreferrer">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>
+
+&nbsp; <a href="https://medium.com/@yashvikothari" target="_blank" rel="noopener noreferrer">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/medium-logo.png" alt="medium-logo"/>
+
+&nbsp; <a href="https://yashvikothari.hashnode.dev/" target="_blank" rel="noopener noreferrer">
 <img width="48" height="48" src="https://img.icons8.com/color/48/000000/hashnode.png" alt="hashnode"/>
 
 </p>
