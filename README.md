@@ -46,3 +46,7 @@ Yashvi Kothari 💙 Darshan Raval
 <img width="48" height="48" src="https://img.icons8.com/color/48/000000/hashnode.png" alt="hashnode"/>
 
 </p>
+
+<section>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
