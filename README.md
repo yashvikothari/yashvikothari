@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&text=Yashvi+Kothari%20&fontAlignY=40&color=gradient)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Jay+Shri+Krishna;I'm+2000+December+23+born+✨;I'm+from+India + 🙏;I'm+a+Documenterian+of+what+I+do.✍;Welcome!+:%29)<br/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Jay+Shri+Krishna;I%27m+2000+December+23+born+%E2%9C%A8;I%27m+from+India%20+%20%F0%9F%99%8F;I%27m+a+Documenterian+of+what+I+do.%E2%9C%8D;Welcome!+:%29)<br/>
 
 ### Hi there 👋
 
