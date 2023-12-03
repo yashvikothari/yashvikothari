@@ -17,6 +17,19 @@
 
 Yashvi Kothari 💙 Darshan Raval
 
+<h2  align="center" width="100%" style='margin-top: 55px '>
+    <img width="36"  src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"/>
+    Softwares, Languages and Tools:
+</h2>
+
+<div align="center">
+
+    <img  align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,css,html,react,nodejs,azure,aws,bash,c,discord,docker,gcp,github,heroku,instagram,arduino,kubernetes,linkedin,stackoverflow,codepen,twitter,github,gcp,figma,emotion,powershell,materialui,githubactions,md,svg,ansible,netlify,python,unity,wordpress">
+
+</div>
+
+
+
 - 👶My Github Report Card
 
 <p align="center">
@@ -26,9 +39,11 @@ Yashvi Kothari 💙 Darshan Raval
 </p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Byashvikothari%7D/count.svg" />
 
+
+
 |                                                                                                                                                                     |                                                                                                                                                 |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![nikhil karkra's github stats](https://github-readme-stats.vercel.app/api?username=yashvikothari&show_icons=true&layout=compact&text_color=daf7dc&bg_color=151515) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvikothari&layout=compact&text_color=daf7dc&bg_color=151515)]() |
+| ![mycrxn github stats](https://github-readme-stats.vercel.app/api?username=yashvikothari&show_icons=true&layout=compact&text_color=daf7dc&bg_color=151515) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvikothari&layout=compact&text_color=daf7dc&bg_color=151515)]() |
 
 <h3> 🤝🏻 Socials </h3>
 
