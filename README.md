@@ -31,7 +31,7 @@ Yashvi Kothari 💙 Darshan Raval
 
 <h3> 🤝🏻 Socials </h3>
 
-<p>
+<p align="left">
 
 &nbsp; <a href="https://twitter.com/kothari_yashvi" target="_blank" rel="noopener noreferrer">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/>
