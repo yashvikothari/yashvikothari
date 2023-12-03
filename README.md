@@ -1,5 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&text=Yashvi+Kothari%20&fontAlignY=40&color=gradient)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Jay+Shri+Krishna;I'm+2000+December+23+born+✨;I'm+from+India + 🙏;I'm+a+Documenterian+of+what+I+do.✍;Welcome!+:%29)](https://git.io/typing-svg)<br/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Jay+Shri+Krishna;I'm+2000+December+23+born+✨;I'm+from+India + 🙏;I'm+a+Documenterian+of+what+I+do.✍;Welcome!+:%29)<br/>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
@@ -9,27 +10,20 @@
 - 💬 Ask me about ...
 - 📫 How to reach me:
 - 😄 Pronouns: ...
-She/her
+  She/her
 - ⌚Linkedin Profile Badge:-
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yashvikothari" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yashvikothari?trk=profile-badge">Yashvi Kothari</a></div>
               
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
 
 Yashvi Kothari 💙 Darshan Raval
 
 - 👶Report Card
 
-|       |  |
-| :----: |    :----:   |
-| ![nikhil karkra's github stats](https://github-readme-stats.vercel.app/api?username=yashvikothari&show_icons=true&layout=compact&text_color=daf7dc&bg_color=151515)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvikothari&layout=compact&text_color=daf7dc&bg_color=151515)]()|
-
-
-
-
-
-
-
+|                                                                                                                                                                     |                                                                                                                                                 |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![nikhil karkra's github stats](https://github-readme-stats.vercel.app/api?username=yashvikothari&show_icons=true&layout=compact&text_color=daf7dc&bg_color=151515) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvikothari&layout=compact&text_color=daf7dc&bg_color=151515)]() |
 
 <h3> 🤝🏻 Socials </h3>
 
@@ -54,4 +48,3 @@ Yashvi Kothari 💙 Darshan Raval
 <img width="48" height="48" src="https://img.icons8.com/color/48/000000/hashnode.png" alt="hashnode"/>
 
 </p>
-
