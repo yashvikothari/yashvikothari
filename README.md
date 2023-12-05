@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m AWS Community Builder and currently working FTE Associate Security Analyst - Cloud Security Customer Success (love being IT Sasta Mazdur 🙂,life-long intern & learner)
+- 🔭 I’m AWS Community Builder and currently working FTE Associate Security Analyst - Cloud Security Customer Success (love being IT /Security Sasta Startup Mazdur 🙂,life-long intern & learner)
   1.AWS, Microsoft  & Oracle Cloud Infrastructure Architecture,Operations,Cost Optimization & Security(Prod,UAT & Staging).
   2.Trend Micro Cloud One & Endpoint Projects,Integration,Data Collection,POCs,Automtion and Process
   3.Orca Security and Palo Alto POCs
@@ -22,18 +22,31 @@
 
 - ✨ Out of work, find me walking,driving car,eating,reading Finance,Philosophy, engaging funny Darshan Raval Memes on Twitter(X), playing Taekwondo games or listening music & bhajans.
   
-- 📫 How to reach me ...
+- 📫 How to reach me
   <br>
+  My Letter/Mail box
+
   <img width="17" height="17" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>
   <a href="mailto:yashvikothari@outlook.com" target="_blank" rel="noopener noreferrer">
   yashvikothari@outlook.com
 
-- 😄 Pronouns ...
+- 😄 Pronouns
   <br>
   She/Her
 
-- Skillset ...         
-- ⚡ Fun fact ...
+- 🛠 Skillset
+  
+  💻 &nbsp; Python | Javascript
+  
+  🌐 &nbsp; HTML | CSS | Bootstrap | Javascript | React.js | Node.js | Next.js
+  
+  🧛‍♀️ &nbsp; People Management | RnD | Innovation | 70 hours work week | Business Process | Taking Interviews | Give & Take mentorship
+  
+  ☁ &nbsp; Google Cloud Platform |Oracle Cloud Infrastructure | Amazon Web Services | Microsoft Azure | Netlify | Docker | Kubernetes
+  
+  🔧 &nbsp; Github | Repl | Visual Studio code | Excel | Git
+      
+- ⚡ Fun fact 
    
    Started Taekwondo 🥋 @ 22 and want to repeat 1 type of kick on loop 😂
 
