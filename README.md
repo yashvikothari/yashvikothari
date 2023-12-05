@@ -52,6 +52,8 @@
 
    Yashvi Kothari 💙 Darshan Raval
 
+☕  ultimate solution for any stress ---> bhajan,chai,maggi,paanipuri,coldcofee,sun,clouds,moon,garden,take rest & sleep & again bounce back to the goal for creatively & with stupidly asking questions,try to solve difficult problem first/implemented feature task/same,how & why it work at first place, checking alternatives,solve own fear by practicing,documenting,recalling if anyone else came & if deleted i can recreate.
+
 <h2  align="center" width="100%" style='margin-top: 55px '>
     <img width="36"  src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"/>
     Softwares, Languages and Tools:
