@@ -60,8 +60,7 @@
 
 <table>
   <thead align="center">
-    <td border: 1px solid black;>
-      <td><b>Role</b></td>
+     <td><b>Role</b></td>
       <td><b>Company</b></td>
       <td><b>Start Date</b></td>
       <td><b>End Date</b></td>
