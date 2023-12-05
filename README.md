@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m AWS Community Builder and currently working FTE Associate Security Analyst - Cloud Security Customer Success (love being IT Sasta Mazdur 🙂)
+- 🔭 I’m AWS Community Builder and currently working FTE Associate Security Analyst - Cloud Security Customer Success (love being IT Sasta Mazdur 🙂,life-long intern & learner)
   1.AWS, Microsoft  & Oracle Cloud Infrastructure Architecture,Operations,Cost Optimization & Security(Prod,UAT & Staging).
   2.Trend Micro Cloud One & Endpoint Projects,Integration,Data Collection,POCs,Automtion and Process
   3.Orca Security and Palo Alto POCs
