@@ -126,8 +126,40 @@
 </table>
 
 <h3> 🎓 Education </h3>
-
-
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Board</b></td>
+      <td><b>Institute</b></td>
+      <td><b>Stream</b></td>
+      <td><b>Marks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+	  <td><b>Gujarat Technological University</b></a></td>
+      <td>Adani Institute of Infrastructure Engineering</td>
+      <td>
+      Bachelor of Engineering, Information Communication Technology</td>
+      <td>8.16 CGPA</td>
+  </tr>
+  <tr>
+	  <td><b>Gujarat Higher Secondary Education Board </b></a></td>
+      <td>Best High School</td>
+      <td>PCM(STEM) HSC </td>
+      <td>- AIR JEE(Mains) under 92K
+      - AIR JEE (Advance) score 64
+      - PR 66.44
+      </td>
+  </tr>
+  <tr>
+	<td><b>Gujarat Secondary Education Board </b></a></td>
+      <td>Best High School</td>
+      <td>SSC</td>
+      <td> - PR 93.84
+      </td>
+  </tr>
+</table>
 
 <h3> 💯Profesional Certification </h3>
 
