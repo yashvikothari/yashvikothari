@@ -1,14 +1,27 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&text=Yashvi+Kothari%20&fontAlignY=40&color=gradient)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Jay+Shri+Krishna;I%27m+2000+December+23+born+%E2%9C%A8;I%27m+from+India%20+%20%F0%9F%99%8F;I%27m+a+Documenterian+of+what+I+do.%E2%9C%8D;Welcome!+:%29)<br/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Jay+Shri+Krishna;I%27m+2000+December+23+Mumbai+born+%E2%9C%A8;I%27m+from+Ahmedabad,+India%20+%20%F0%9F%99%8F;I%27m+a+Documenterian+of+what+I+do.%E2%9C%8D;Welcome!+:%29)<br/>
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m AWS Community Builder and currently working FTE Associate Security Analyst - Cloud Security Customer Success (love being IT Sasta Mazdur 🙂)
+  1.AWS, Microsoft  & Oracle Cloud Infrastructure Architecture,Operations,Cost Optimization & Security(Prod,UAT & Staging).
+  2.Trend Micro Cloud One & Endpoint Projects,Integration,Data Collection,POCs,Automtion and Process
+  3.Orca Security and Palo Alto POCs
+  4.In House SOC PROD Audit,CSPM
+  5.In-house Logging and SIEM solution,Wazuh based.
+
+- 🌱 I’m currently learning Web Development, Cloud,System Design,Security Products and Security Architecture.
   
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on soft skills,people skills,hands-on skills,finetuning all technical KBs from professional level in terms of writing, e-mail writing,testing & acceptance.
+  
+- 🤔 I’m looking for help with some good open source projects and having PROD type access to shadow and document along with team.
+  
+- 💬 Let's do chit-chat about security and software engineering for everyone and impact for our developer community by assisting them.
+
+- ✍ Love writing Technical,How-to, why,what in-depth Blogs on Hashnode & Medium.
+
+- ✨ Out of work, find me walking,driving car,eating,reading Finance,Philosophy, engaging funny Darshan Raval Memes on Twitter(X), playing Taekwondo games or listening music & bhajans.
+  
 - 📫 How to reach me ...
   <br>
   <img width="17" height="17" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>
