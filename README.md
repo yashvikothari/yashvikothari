@@ -60,7 +60,7 @@
 </h2>
 
 <div align="center">
-<img align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,css,html,react,nodejs,azure,aws,bash,c,discord,docker,gcp,github,instagram,arduino,kubernetes,linkedin,stackoverflow,codepen,twitter,github,gcp,figma,powershell,md,svg,ansible,netlify,python,unity,wordpress" />
+<img align="center" src="https://skillicons.dev/icons?i=linux,windows,android,git,vscode,javascript,css,html,react,nodejs,azure,aws,bash,c,discord,docker,gcp,github,instagram,arduino,kubernetes,linkedin,stackoverflow,codepen,twitter,github,gcp,figma,powershell,md,svg,ansible,netlify,python,unity,wordpress" />
 </div>
 
 
