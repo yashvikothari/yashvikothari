@@ -224,7 +224,7 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/medium-logo.png" alt="medium-logo"/>
 <a href="https://yashvikothari.hashnode.dev/" target="_blank" rel="noopener noreferrer">
 <img width="48" height="48" src="https://img.icons8.com/color/48/000000/hashnode.png" alt="hashnode"/>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev.to' height='47'>](https://dev.to/https://dev.to/yashvikothari)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev.to' height='47'>](https://dev.to/yashvikothari)  
 
 </p>
 
