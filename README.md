@@ -199,7 +199,7 @@
 [<img src='https://images.credly.com/size/680x680/images/8a309bec-2f3d-477a-aa7f-cd789453051a/image.png' alt='Orca Cloud Native Security' height="98">](https://www.credly.com/badges/1227f88a-0278-4b52-aaa4-1dab268ab1e6)
 [<img src='https://images.credly.com/size/680x680/images/1f5bc18b-43f5-4784-b6f3-60f70f27e57a/image.png' alt='Trend Micro AWS Security' height="120">](https://www.credly.com/badges/d7d27ce0-0e12-4c54-a157-6b9252e4a867)
 
-[<img src='OracleCloudInfraArchitect\1695575027694.jpeg' height="120" alt='Oracle Cloud Infrastructure Architect Professional'>](https://www.linkedin.com/in/yashvikothari/details/certifications/1635542058856/single-media-viewer/?profileId=ACoAACf9Ur0BFsCFz4HNNHP6Du7jlZLbLqCfeO4)
+[<img src='OracleCloudInfraArchitect/1695575027694.jpeg' height="120" alt='Oracle Cloud Infrastructure Architect Professional'>](https://www.linkedin.com/in/yashvikothari/details/certifications/1635542058856/single-media-viewer/?profileId=ACoAACf9Ur0BFsCFz4HNNHP6Du7jlZLbLqCfeO4)
 
 
 
