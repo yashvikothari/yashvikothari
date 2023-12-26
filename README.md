@@ -202,7 +202,6 @@
 [<img src='https://github.com/yashvikothari/yashvikothari/blob/main/OracleCloudInfraArchitect/1695575027694.jpeg' height="120" alt='Oracle Cloud Infrastructure Architect Professional'>](https://www.linkedin.com/in/yashvikothari/details/certifications/1635542058856/single-media-viewer/?profileId=ACoAACf9Ur0BFsCFz4HNNHP6Du7jlZLbLqCfeO4)
 
 
-
 <br>
 
 [<img src='https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png' alt='Oracle Cloud Infrastructure Foundations Associate' alt='Oracle Cloud Infrastructure' height="110">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E6C72AFC0906B61362E6AC9D5B0AB0E5D086D2223BD951C430506B762C7E33D3)
@@ -226,6 +225,8 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/000000/hashnode.png" alt="hashnode"/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev.to' height='47'>](https://dev.to/https://dev.to/yashvikothari)  
 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/yashvikothari)
 </p>
 
 <section>
