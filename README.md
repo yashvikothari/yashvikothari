@@ -28,7 +28,7 @@
 
   <img width="17" height="17" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>
   <a href="mailto:yashvikothari@outlook.com" target="_blank" rel="noopener noreferrer">
-  yashvikothari@outlook.com
+  yashvikothari@outlook.com</a>
 
 - 😄 Pronouns
   <br>
@@ -52,7 +52,8 @@
 
    Yashvi Kothari 💙 Darshan Raval
 
-☕  ultimate solution for any stress ---> bhajan,chai,maggi,paanipuri,coldcofee,sun,clouds,moon,garden,take rest & sleep & again bounce back to the goal for creatively & with stupidly asking questions,try to solve difficult problem first/implemented feature task/same,how & why it work at first place, checking alternatives,solve own fear by practicing,documenting,recalling if anyone else came & if deleted i can recreate.
+☕  ultimate solution for any stress ---> bhajan,chai,maggi,paanipuri,coldcofee,sun,clouds,moon,music,garden,take rest & sleep & again bounce back to the goal for creatively & with stupidly asking questions,try to solve difficult problem first/implemented feature task/same,how & why it work at first place, checking alternatives,solve own fear by practicing,documenting,recalling if anyone else came & if deleted i can recreate.
+
 
 <h2  align="center" width="100%" style='margin-top: 55px '>
     <img width="36"  src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"/>
@@ -65,10 +66,61 @@
 
 
 
+<h3 align="left">Programming Language</h3>
+<p align="left">
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,java" alt="programming" width="80" height="40"/>
+</p>
+
+<h3 align="left">Frontend</h3>
+<p align="left">
+<img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,redux,babel" alt="programming" width="240" height="40"/>
+</p>
+
+<h3 align="left">Backend</h3>
+<p align="left">
+<img align="center" src="https://skillicons.dev/icons?i=nodejs,nginx,javascript,php,express,graphql,rabbitmq,kafka,go" alt="programming" width="240" height="40"/>
+</p>
+
+<h3 align="left">Cloud</h3>
+<p align="left">
+<img align="center" src="https://skillicons.dev/icons?i=azure,aws,gcp" alt="cloud" width="100" height="40" />
+</p>
+
+<h3 align="left">Database</h3>
+<p align="left">
+<img align="center" src="https://skillicons.dev/icons?i=mongo,mysql,postgresql,redis" alt="cloud" width="120" height="40" />
+</p>
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="20" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="aws-dynamodb" width="20" height="40"/> 
+ </p>
+<img src="https://seeklogo.com/images/A/azure-cosmos-db-logo-128436034F-seeklogo.com.png" alt="azure cosmos" width="25" />
+<a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="26"/> </a> 
+
+<h3 align="left">Support Web -Others</h3>
+<p align="left">
+<img align="center" src="https://skillicons.dev/icons?i=svg,markdown" alt="programming" width="70" height="40"/>
+</p>
+
+<h3 align="left">Social Media</h3>
+<p align="left">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin,instagram,facebook,x" alt="programming" width="70" height="40"/>
+</p>
+
+<br>
+
 <br>
 - 👶My Github Report Card
   
-<!-- Thankyou https://github.com/anuraghazra/github-readme-stats -->
+  <h3 align="center"></h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashvikothari" alt="yashvikothari" /></a> </p>
+
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvikothari&" alt="yashvikothari" /></p>
+
 
 <p align="center">
     <br/>
@@ -76,6 +128,7 @@
     Github Visitors Count
 </p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Byashvikothari%7D/count.svg" />
+
 
 
 
@@ -208,8 +261,20 @@
 
 [<img src='https://brm-workforce.oracle.com/pdf/certview/images/OCIS2023CP.png' alt='Oracle Cloud Infrastructure Security' height="110">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3B0AFE599CFA5C8757805C31A50A928AAB3AE44DDE1E62F566D0230EF33DCA21)
 
+### Blogs posts from dev.to
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Blogs posts from medium
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Blogs posts from hashnode
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
+<section>
 
 <h3> 🤝🏻Socials </h3>
 
@@ -226,9 +291,21 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev.to' height='47'>](https://dev.to/yashvikothari)  
 
 
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/yashvikothari)
 </p>
 
 <section>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+----------
+
+
+----
+
+
+
+
+
+
