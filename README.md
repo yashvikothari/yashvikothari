@@ -9,6 +9,8 @@
   
 - Professionals/Maintainers/Customer/Students can find as many bugs and open issues,do creativity, suggest there personal docs for learning.
 
+- note:too much complexity may occur in software/security due to making 1 thing do things of two.
+
 - 🔭 I’m AWS Community Builder and currently working FTE Associate Security Analyst - Cloud Security Customer Success (love being IT /Security Sasta Startup Mazdur 🙂,life-long intern & learner)
   1.AWS, Microsoft  & Oracle Cloud Infrastructure Architecture,Operations,Cost Optimization & Security(Prod,UAT & Staging).
   2.Trend Micro Cloud One & Endpoint Projects,Integration,Data Collection,POCs,Automtion and Process
